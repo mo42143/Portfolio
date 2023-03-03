@@ -1,0 +1,298 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body {
+    color: white;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 50;
+    width: 100%;
+    padding: 20px 10%;
+    /* background: transparent; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #282834;
+    /* z-index: 100; */
+}
+
+.mainContainer {
+    height: 100vh;
+    background-color: #363543;
+    margin-top: 80px;
+}
+.secondContainer{
+    height: 100vh;
+    background-color: #282834;
+    margin-top: -65px;
+}
+
+.middleContainer {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    margin-right: 40px;
+    position: relative;
+    right: 100px;
+
+}
+.midContainer {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    background-color: #403F51;
+    width:100%;
+    height:100%;
+    
+}
+
+
+.logo {
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    margin-right: 400px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 100px;
+}
+
+.navbar a {
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 80px;
+    right: 300px;
+    position: relative;
+
+
+}
+
+.home {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flexbox;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 60px;
+
+}
+
+.Home {
+    margin: 30px;
+    padding: 50px;
+    font-size: 30px;
+    top: 30px;
+}
+
+.leftside {
+    position: relative;
+    margin-left: 800px;
+    bottom: 260px;
+}
+
+.img1 {
+    position: relative;
+    left: 180px;
+}
+
+.img2{
+    position: relative;
+    left: 90px;
+}
+
+.img3{
+    position: relative;
+    left: 10px;
+}
+
+.circle{
+    background-color: #282834; 
+    height: 500px;
+    width: 500px;
+    border-radius: 200%;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 90px;
+    position: relative;
+    bottom: 40px;
+    right: 30px;
+}
+
+.mypic{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+}
+
+.img4{
+width: 80px;
+height: 80px;
+position: relative;
+bottom: 30px;
+    
+}
+
+.img5{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    bottom: 25px;
+    right:40px;
+}
+
+.last{
+    position: relative;
+    top: 200px;
+    left: 70px;
+}
+
+.what{
+    font-size: 40px;
+}
+
+.it{
+    font-size: 15px;
+    color: #7b7a85;
+}
+
+.p{
+color: yellow;
+}
+
+.C{
+    color: #7b7a85;
+}
+
+.Co{
+    position: relative;
+    left: 240px;
+    bottom: 90px;
+    color: yellow;
+}
+
+.Re{
+    position: relative;
+    bottom: 80px;
+    color: yellow;
+}
+
+.Ex{
+    position: relative;
+    left: 240px;
+    bottom: 170px;
+    color: yellow;
+}
+.Ux{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 640px;
+    bottom: 330px;
+}
+
+.Es{
+    position: relative;
+    left: 760px;
+    bottom: 420px;
+}
+
+.Line{
+    position: relative;
+    left: 640px;
+    bottom: 420px;
+}
+
+.M{
+    position: relative;
+    font-size: 30px;
+    bottom: 50px;
+}
+
+.img6{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    bottom:-11px;
+
+}
+
+.L{
+    position: relative;
+    font-size: 45px;
+    bottom:30px;
+    right: 60px;
+}
+
+.img7{
+    position: relative;
+    width: 80px;
+    right: 80px;
+    bottom: 25px;
+}
+
+.S{
+    position: relative;
+    font-size: 35px;
+    bottom: 45px;
+    right: 80px;
+}
+
+.End{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: 380px;
+    left: 640px;
+}
+
+.Fr{
+    position: relative;
+    left: 760px;
+    bottom: 480px;
+}
+
+.Deve{
+    position: relative;
+    bottom: 480px;
+    left: 760px;
+}
+
+.L1{
+    position: relative;
+    left: 640px;
+    bottom: 460px;
+}
+
+.arrow{
+    position: relative;
+    bottom: 720px;
+    left: 1230px;
+}
+
+.ar1{
+    position: relative;
+    bottom: 580px;
+    left: 1205px;
+}
+
+.Name{
+    position: relative;
+    bottom: 12px;
+}
